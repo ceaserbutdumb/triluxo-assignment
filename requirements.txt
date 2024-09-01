@@ -1,0 +1,7 @@
+flask==3.0.3
+flask-restful==0.3.10
+langchain-huggingface==0.0.3
+langchain-community==0.2.15
+langchain==0.2.15
+faiss-cpu==1.8.0.post1
+unstructured==0.15.9
