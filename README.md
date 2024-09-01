@@ -21,5 +21,5 @@ curl -X POST -H "Content-Type: application/json" -d '{"message":"Tell me about t
 
 ## Screenshots
 
-![App Screenshot](screenshot/working-creenshot.png)
+![App Screenshot](https://github.com/ceaserbutdumb/triluxo-assignment/blob/main/screenshot/working-screenshot.png?raw=True)
 
